@@ -1,0 +1,18 @@
+[submodule "resource/t0_framework-1.0"]
+	path = resource/t0_framework-1.0
+	url = https://github.com/wpwpwpwpwpwpwpwpwp/t0_framework-1.0.git
+[submodule "resource/wp"]
+	path = resource/wp
+	url = https://github.com/wpwpwpwpwpwpwpwpwp/-wp
+[submodule "resource/Alpha-101-GTJA-191"]
+	path = resource/Alpha-101-GTJA-191
+	url = https://github.com/wpwpwpwpwpwpwpwpwp/Alpha-101-GTJA-191.git
+[submodule "resource/T0"]
+	path = resource/T0
+	url = https://github.com/wpwpwpwpwpwpwpwpwp/T0
+[submodule "resource/HIST"]
+	path = resource/HIST
+	url = https://github.com/Wentao-Xu/HIST.git
+[submodule "resource/IGMTF"]
+	path = resource/IGMTF
+	url = git@github.com:awfeequdng/IGMTF.git
